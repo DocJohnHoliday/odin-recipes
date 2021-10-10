@@ -1,0 +1,1 @@
+This is the first project that has been loaded to github that has not been step by step explained. Skills learned from previous chapters that have been applied to this project include git knowledge, github, and linux terminal knowledge.
